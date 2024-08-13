@@ -1,5 +1,15 @@
-👋 Hello there, My Name is Sanni Olorunjuwon David. a frontend web developer committed to crafting high-quality websites that blend functionality with aesthetics. i specialize in turning designs into responsive and dynamic interfaces using HTML and CSS
-🚀 I have a keen interest in building interactive and engaging web applications. collaborating effectively with multi disciplinary teams, i strive to deliver top-notch solutions that exceeds client expectations.
-📚 Committed to staying updated with the latest industry trends and best practices. I continuously hone my skills to ensure the websites i develop are not only visually appealing but also optimized for performance and accessibility.
-💡 Eager to contribute to innovative projects and bring creative visions to life on the web. I am excited about the possibilites that lies ahead. let's connect and collaborate to transform ideas into captivating digital realities!
-📞 Feel free to reach out to me at sanniolorunjuwon@gmail.com
+<h1>Portfolio Website<h1b>
+This repository contains the code for my personal portfolio website. The website is designed to showcase my projects, skills, and experience to potential employers or clients. Additionally, it includes user registration and login functionality.
+
+<b>Features</b>
+<b>Projects</b>: Display a collection of my projects with descriptions, images, and links to live demos or GitHub repositories.
+<b>About Me</b>: Provide information about my background, skills, and experience.
+<b>Contact</b>: Offer a way for visitors to get in touch with me.
+<b>User Registration</b>: Allow visitors to create an account on the website.
+<b>User Login</b>: Enable registered users to log in to access additional features.
+<b>Technologies Used</b>
+HTML5
+CSS3
+JavaScript
+PHP
+MySQL
