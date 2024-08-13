@@ -1,15 +1,12 @@
-<h1>Portfolio Website<h1b>
+Portfolio Website
 This repository contains the code for my personal portfolio website. The website is designed to showcase my projects, skills, and experience to potential employers or clients. Additionally, it includes user registration and login functionality.
 
-<b>Features</b>
-<b>Projects</b>: Display a collection of my projects with descriptions, images, and links to live demos or GitHub repositories.
-<b>About Me</b>: Provide information about my background, skills, and experience.
-<b>Contact</b>: Offer a way for visitors to get in touch with me.
-<b>User Registration</b>: Allow visitors to create an account on the website.
-<b>User Login</b>: Enable registered users to log in to access additional features.
-<b>Technologies Used</b>
+Features
+Projects: Display a collection of my projects with descriptions, images, and links to live demos or GitHub repositories.
+About Me: Provide information about my background, skills, and experience.
+Contact: Offer a way for visitors to get in touch with me.
+User Registration: Allow visitors to create an account on the website.
+User Login: Enable registered users to log in to access additional features.
+Technologies Used
 HTML5
 CSS3
-JavaScript
-PHP
-MySQL
